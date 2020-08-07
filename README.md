@@ -1,6 +1,6 @@
 ### Hello people 👋
 
-I'm Paulo Neto from Brazil, I'm a Software Engineer. I'm a Java Programmer, javaScript, Scala and Type Script.
+I'm Paulo Neto from Brazil, I'm a Software Engineer. I'm a Java, javaScript, Scala and Type Script Programmer.
 I have experience with distributed and web applications.
 
 <a href="https://github.com/paulo-neto/paulo-neto">
